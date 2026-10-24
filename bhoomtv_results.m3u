@@ -1,1 +1,525 @@
 #EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="7 Green 4K" tvg-name="7 Green 4K" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-10_22_25-PM-2-185x278.png" group-title="Tamil Local TV",7 Green 4K
+https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
+#EXTINF:-1 tvg-id="7S Music" tvg-name="7S Music" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-09_02_59-AM-1-185x278.png" group-title="Tamil TV",7S Music
+https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
+#EXTINF:-1 tvg-id="7Star Television" tvg-name="7Star Television" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-25-2026-11_27_07-PM-1-185x278.png" group-title="Tamil Local TV",7Star Television
+https://annainew.livebox.co.in/7startvhls/livestream.m3u8
+#EXTINF:-1 tvg-id="A1 Media News" tvg-name="A1 Media News" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-20-2026-10_22_34-AM-1-185x278.png" group-title="Tamil Local TV",A1 Media News
+https://golden-tv.keralive.workers.dev/live2/a1medianews/index.m3u8
+#EXTINF:-1 tvg-id="A1 TV Ariyalur" tvg-name="A1 TV Ariyalur" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/Vibrant-A1-TV-logo-design-1-185x278.png" group-title="Tamil Local TV",A1 TV Ariyalur
+https://app.ashokadigital.net/app/0fca457c/index.m3u8
+#EXTINF:-1 tvg-id="Aadhavan Colours" tvg-name="Aadhavan Colours" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/Vibrant-Aadhavan-Colours-logo-design-1-185x278.png" group-title="Tamil Local TV",Aadhavan Colours
+https://proxy.keralive.workers.dev/http://mkpcloud.playit.plus:1024/AadhavanColours/AadhavanColours.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Aadhavan Tamil TV" tvg-name="Aadhavan Tamil TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/Aadavan-Tamil-channel-logo-design-1-185x278.png" group-title="Tamil Local TV",Aadhavan Tamil TV
+https://phoenixcreations.keralive.workers.dev/aadhavantamiltv/aadhavantamiltv/aadhavantamiltv/index.m3u8
+#EXTINF:-1 tvg-id="Aadhavan TV" tvg-name="Aadhavan TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-10_28_06-PM-1-185x278.png" group-title="Tamil Local TV",Aadhavan TV
+https://ipcloud.live/aadhavantv/aadhavanhd/index.m3u8?token=aadhavantv
+#EXTINF:-1 tvg-id="Aadvik TV" tvg-name="Aadvik TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-May-11-2026-09_56_34-PM-1-185x278.png" group-title="Tamil Local TV",Aadvik TV
+https://ipcloud.live/sachintv/aadviktv/index.m3u8
+#EXTINF:-1 tvg-id="Aalayam TV" tvg-name="Aalayam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-4-2026-11_11_41-PM-1.png" group-title="Tamil Local TV",Aalayam TV
+https://5dd3981940faa.streamlock.net/aalayamtv/aalayamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Aaron TV" tvg-name="Aaron TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-11-2026-09_59_33-PM-1-185x278.png" group-title="Tamil Local TV",Aaron TV
+https://stream.onecloudlive.in/sachintv/aarontvhd/index.m3u8
+#EXTINF:-1 tvg-id="Aaryaa TV" tvg-name="Aaryaa TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Mar-11-2026-11_28_56-PM-1-185x278.png" group-title="Tamil Local TV",Aaryaa TV
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="Aastha Tamil" tvg-name="Aastha Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2023/12/ChatGPT-Image-Apr-10-2025-11_55_24-AM-185x278.png" group-title="Tamil TV",Aastha Tamil
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Aathi TV" tvg-name="Aathi TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-01_18_27-PM-1-185x278.png" group-title="Tamil Local TV",Aathi TV
+https://5790d294af2dc.streamlock.net/aathitv/aathitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Abnaz TV" tvg-name="Abnaz TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-8-2026-10_47_31-PM-1-185x278.png" group-title="Tamil Local TV",Abnaz TV
+https://live.toponlinetv.com/abnaztv/index.m3u8
+#EXTINF:-1 tvg-id="ACN Cinema HD" tvg-name="ACN Cinema HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/10/ACN-Cinema-HD-Reel-Splash-1-185x278.png" group-title="Tamil Local TV",ACN Cinema HD
+https://app.ashokadigital.net/app/ea6afbb7/index.m3u8
+#EXTINF:-1 tvg-id="Adhir Alai TV" tvg-name="Adhir Alai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-10-2026-09_26_55-PM.png" group-title="Tamil Local TV",Adhir Alai TV
+https://hlsstream.olidigital.in/adhiralaitv/adhiralaitv/index.m3u8
+#EXTINF:-1 tvg-id="Adhiyaman TV" tvg-name="Adhiyaman TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-5-2026-12_12_27-PM-1-185x278.png" group-title="Tamil Local TV",Adhiyaman TV
+https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
+#EXTINF:-1 tvg-id="Agam TV" tvg-name="Agam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-16-2026-11_10_34-PM-1-185x278.png" group-title="Tamil Local TV",Agam TV
+https://lanka.vaanam24.com:3682/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Agaram TV" tvg-name="Agaram TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-24-2026-12_13_22-PM-1-185x278.png" group-title="Tamil Local TV",Agaram TV
+https://app.xstream.onecloudlive.in/akaramtvhd/akaram/index.m3u8
+#EXTINF:-1 tvg-id="Agasham TV" tvg-name="Agasham TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-22-2026-12_33_25-PM-1.png" group-title="Tamil Local TV",Agasham TV
+https://agashamtv.stream.ipcloud.live/agashamtv/livestream/index.m3u8
+#EXTINF:-1 tvg-id="Akilam TV" tvg-name="Akilam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-11-2025-09_18_14-PM-1-185x278.png" group-title="Tamil Local TV",Akilam TV
+https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
+#EXTINF:-1 tvg-id="Alpha TV" tvg-name="Alpha TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-4-2026-11_37_10-PM-1.png" group-title="Tamil Local TV",Alpha TV
+https://bk7l2z5nlx53-hls-live.5centscdn.com/alpha/55f071ebe5152828fdcc330c765659ea.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Amma Channel" tvg-name="Amma Channel" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/10/Ammaada-HD-Tamil-Channel-Logo-1-185x278.png" group-title="Tamil Local TV",Amma Channel
+https://app.ashokadigital.net/app/92954bf6/index.m3u8
+#EXTINF:-1 tvg-id="Amma TV" tvg-name="Amma TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-25-2026-11_28_28-PM-1-185x278.png" group-title="Tamil Local TV",Amma TV
+https://annainew.livebox.co.in/ammatvhls/live.m3u8
+#EXTINF:-1 tvg-id="Amma Vision" tvg-name="Amma Vision" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_32_32-PM-1-185x278.png" group-title="Tamil Local TV",Amma Vision
+https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
+#EXTINF:-1 tvg-id="Amman TV" tvg-name="Amman TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_07_29-AM-1-185x278.png" group-title="Tamil Local TV",Amman TV
+https://app.ashokadigital.net/app/78b1bc36/index.m3u8
+#EXTINF:-1 tvg-id="Annai Tamil" tvg-name="Annai Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-25-2026-11_22_52-PM-1-185x278.png" group-title="Tamil Local TV",Annai Tamil
+https://annainew.livebox.co.in/annaitamilhls/live.m3u8
+#EXTINF:-1 tvg-id="Annai TV" tvg-name="Annai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Mar-2-2026-11_28_14-AM-1-185x278.png" group-title="Tamil Local TV",Annai TV
+https://annainew.livebox.co.in/annailivehls/live.m3u8
+#EXTINF:-1 tvg-id="Annai TV Thoothukudi" tvg-name="Annai TV Thoothukudi" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-2-2026-11_30_52-AM-1-185x278.png" group-title="Tamil Local TV",Annai TV Thoothukudi
+https://phoenixcreations.keralive.workers.dev/annaitv/annai/annaitv/index.m3u8
+#EXTINF:-1 tvg-id="Anu TV" tvg-name="Anu TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-4-2026-07_01_36-AM-1-185x278.png" group-title="Tamil Local TV",Anu TV
+https://phoenixcreations.keralive.workers.dev/anutv/anutv/anutv/index.m3u8
+#EXTINF:-1 tvg-id="Apple TV Marthandam" tvg-name="Apple TV Marthandam" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-27-2026-09_35_47-AM-1-185x278.png" group-title="Tamil Local TV",Apple TV Marthandam
+https://web.applelive.in/stream/appletv/index.m3u8
+#EXTINF:-1 tvg-id="APS Gold TV" tvg-name="APS Gold TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-10_57_35-PM-1-185x278.png" group-title="Tamil Local TV",APS Gold TV
+https://apsgold-a1.tamilstream.in/apsgold/apsgold/index.m3u8
+#EXTINF:-1 tvg-id="APS TV" tvg-name="APS TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-10_56_17-PM-1-185x278.png" group-title="Tamil Local TV",APS TV
+https://apstv-a1.tamilstream.in/apstv/apstv/index.m3u8
+#EXTINF:-1 tvg-id="Archana TV" tvg-name="Archana TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/10/Archana-TV-Glossy-Broadcast-Poster-1-185x278.png" group-title="Tamil Local TV",Archana TV
+https://live-stream.in/archanatv/archanatv/index.m3u8
+#EXTINF:-1 tvg-id="Arighni TV" tvg-name="Arighni TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-24-2026-09_35_26-PM-1-185x278.png" group-title="Tamil Local TV",Arighni TV
+https://dmtv.iptv.pics/live/dmtv/index.m3u8
+#EXTINF:-1 tvg-id="Arunan TV" tvg-name="Arunan TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/10/Arunan-TV-Sunburst-Broadcast-Logo-1-185x278.png" group-title="Tamil Local TV",Arunan TV
+https://live20.bozztv.com/akamaissh101/ssh101/arunantv/playlist.m3u8
+#EXTINF:-1 tvg-id="Ashoka TV" tvg-name="Ashoka TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Dec-8-2025-08_11_40-AM-1-185x278.png" group-title="Tamil Local TV",Ashoka TV
+https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
+#EXTINF:-1 tvg-id="Asoka TV" tvg-name="Asoka TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-03_50_28-PM-1-185x278.png" group-title="Tamil Local TV",Asoka TV
+https://ipcloud.live/asokatv/asokahd/index.m3u8
+#EXTINF:-1 tvg-id="Athavan TV HD" tvg-name="Athavan TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Mar-4-2026-09_13_34-PM-1-185x278.png" group-title="Tamil TV",Athavan TV HD
+https://yupp-tv.keralive.workers.dev/120723/smil:athavantv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ATN Media" tvg-name="ATN Media" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-17-2026-01_43_54-PM-1-185x278.png" group-title="Tamil Local TV",ATN Media
+https://play.applelive.in/atn/atn.m3u8
+#EXTINF:-1 tvg-id="ATN TV" tvg-name="ATN TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-12_13_06-PM-1-185x278.png" group-title="Tamil Local TV",ATN TV
+https://stream.rojatv.cloud/ATNHD/onecloud/index.m3u8
+#EXTINF:-1 tvg-id="AVS TV" tvg-name="AVS TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-15-2026-06_13_09-PM-1-185x278.png" group-title="Tamil Local TV",AVS TV
+https://play.applelive.in/avstv/avstv.m3u8
+#EXTINF:-1 tvg-id="Bigil TV" tvg-name="Bigil TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-11_45_09-AM-1-185x278.png" group-title="Tamil Local TV",Bigil TV
+https://phoenixcreations.keralive.workers.dev/bigiltv/bigiltv/bigiltv/index.m3u8
+#EXTINF:-1 tvg-id="Blue Moon TV" tvg-name="Blue Moon TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-28-2026-10_53_56-PM-1-185x278.png" group-title="Tamil Local TV",Blue Moon TV
+https://rtmp.bmlive.net/bms/bmtv/stream.m3u8
+#EXTINF:-1 tvg-id="Bright Simrose TV" tvg-name="Bright Simrose TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-10_31_54-AM-1-185x278.png" group-title="Tamil Local TV",Bright Simrose TV
+https://notvstream.in/brightsimrosetv/brightsimrosetv/index.m3u8
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_10_07-AM-1-185x278.png" group-title="Tamil Local TV",BTV HD
+https://live.applelive.in/boobsh/boobsh/index.m3u8
+#EXTINF:-1 tvg-id="Chola TV" tvg-name="Chola TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-4-2026-07_02_21-PM-1-185x278.png" group-title="Tamil Local TV",Chola TV
+https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8?token=dHVsbml0X3N0ZWFsc19zaGl0
+#EXTINF:-1 tvg-id="CITI Channel" tvg-name="CITI Channel" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-2-2025-08_47_46-AM-1-185x278.png" group-title="Tamil Local TV",CITI Channel
+https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
+#EXTINF:-1 tvg-id="Colors Tamil HD" tvg-name="Colors Tamil HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/03/ChatGPT-Image-Dec-22-2025-09_36_21-AM-1-185x278.png" group-title="Tamil TV",Colors Tamil HD
+https://yupp-tv.keralive.workers.dev/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CTN" tvg-name="CTN" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-13-2025-07_24_27-AM-2-185x278.png" group-title="Tamil Local TV",CTN
+https://rtmp.bmlive.net/ctn/ctntn/stream.m3u8
+#EXTINF:-1 tvg-id="Dark Television" tvg-name="Dark Television" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-03_29_42-PM-1-185x278.png" group-title="Tamil Local TV",Dark Television
+https://play.applelive.in/darktv/darktv.m3u8
+#EXTINF:-1 tvg-id="Darshan TV" tvg-name="Darshan TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-12-2025-08_23_58-PM-1-185x278.png" group-title="Tamil Local TV",Darshan TV
+https://galaxyott.live/hls/dharshantv.m3u8
+#EXTINF:-1 tvg-id="DD Tamil" tvg-name="DD Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-01_00_34-PM-185x278.png" group-title="Tamil TV",DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1 tvg-id="Devathai TV" tvg-name="Devathai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-May-5-2026-12_02_11-PM-1-185x278.png" group-title="Tamil Local TV",Devathai TV
+https://ipcloud.live/devadhaitv/devadhaitv/index.m3u8
+#EXTINF:-1 tvg-id="Devi TV" tvg-name="Devi TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-29-2026-11_17_35-PM-1.png" group-title="Tamil Local TV",Devi TV
+https://app.ashokadigital.net/app/7086d917/index.m3u8
+#EXTINF:-1 tvg-id="Dharani TV" tvg-name="Dharani TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-28-2026-09_38_18-AM-1-185x278.png" group-title="Tamil Local TV",Dharani TV
+https://phoenixcreations.keralive.workers.dev/dharnitv/dharnitv/dharni/index.m3u8
+#EXTINF:-1 tvg-id="Dheeran TV" tvg-name="Dheeran TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-01_13_42-PM-185x278.png" group-title="Tamil TV",Dheeran TV
+https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
+#EXTINF:-1 tvg-id="Dhool TV" tvg-name="Dhool TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-1-2026-04_14_28-PM-1.png" group-title="Tamil TV",Dhool TV
+https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Diamond Music" tvg-name="Diamond Music" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-5-2026-10_53_06-PM-1-185x278.png" group-title="Tamil Local TV",Diamond Music
+https://nellai-iptv.keralive.workers.dev/DIAMONDMUSIC/index.m3u8?host=real-vk
+#EXTINF:-1 tvg-id="Diamond Talkies HD" tvg-name="Diamond Talkies HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-5-2026-10_50_26-PM-1-185x278.png" group-title="Tamil Local TV",Diamond Talkies HD
+https://nellai-iptv.keralive.workers.dev/DIAMONDTALKIES/index.m3u8?host=real-vk
+#EXTINF:-1 tvg-id="Diamond TV" tvg-name="Diamond TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-5-2026-10_43_07-PM-1-185x278.png" group-title="Tamil Local TV",Diamond TV
+https://nellai-iptv.keralive.workers.dev/DIAMONDTV/index.m3u8?host=real-vk
+#EXTINF:-1 tvg-id="Durai Melodies" tvg-name="Durai Melodies" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/02/ChatGPT-Image-Feb-21-2026-12_04_57-PM-1-185x278.png" group-title="Tamil Local TV",Durai Melodies
+https://stream.onecloudlive.in/duraitv/classic/index.m3u8
+#EXTINF:-1 tvg-id="Eagle TV" tvg-name="Eagle TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_27_59-AM-1-185x278.png" group-title="Tamil Local TV",Eagle TV
+https://rtmp.bmlive.net/bms/eagletv/stream.m3u8
+#EXTINF:-1 tvg-id="EET TV" tvg-name="EET TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2021/07/ChatGPT-Image-Apr-10-2025-01_28_23-PM-185x278.png" group-title="Tamil Local TV",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="Emperor TV" tvg-name="Emperor TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_32_25-PM-1-185x278.png" group-title="Tamil Local TV",Emperor TV
+https://rtmp.bmlive.net/bms/emperortv/stream.m3u8
+#EXTINF:-1 tvg-id="Enthiran TV" tvg-name="Enthiran TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-05_07_28-PM-1-185x278.png" group-title="Tamil Local TV",Enthiran TV
+https://live.applelive.in/enthirantv/enthirantv/index.m3u8
+#EXTINF:-1 tvg-id="Eye Tamil" tvg-name="Eye Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-11_55_53-AM-1-185x278.png" group-title="Tamil Local TV",Eye Tamil
+https://recordings.eyetamil.tv/livetv/index.m3u8?token=eyetamil2024
+#EXTINF:-1 tvg-id="Eye TV HD" tvg-name="Eye TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-24-2026-09_39_04-AM-1-185x278.png" group-title="Tamil Local TV",Eye TV HD
+https://proxy.keralive.workers.dev/http://eyetv.live.mystreams.in/live/eyetv/index.m3u8
+#EXTINF:-1 tvg-id="Fort Channels" tvg-name="Fort Channels" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-17-2026-02_02_42-PM-1-185x278.png" group-title="Tamil Local TV",Fort Channels
+https://stream.onecloudlive.in/forttv/fortchannel/index.m3u8
+#EXTINF:-1 tvg-id="G Max TV" tvg-name="G Max TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-28-2026-11_00_07-PM-1-185x278.png" group-title="Tamil Local TV",G Max TV
+https://play.applelive.in/gcv/gcv.m3u8
+#EXTINF:-1 tvg-id="Garudan TV" tvg-name="Garudan TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-19-2025-10_13_33-PM-1-185x278.png" group-title="Tamil Local TV",Garudan TV
+https://play.applelive.in/hls/garudantv.m3u8
+#EXTINF:-1 tvg-id="Gem TV" tvg-name="Gem TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-25-2025-05_20_49-PM-1-185x278.png" group-title="Tamil Local TV",Gem TV
+https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-10_43_02-PM-1.png" group-title="Tamil Local TV",Global TV
+https://play.applelive.in/globaltv/globaltv.m3u8
+#EXTINF:-1 tvg-id="Gopuram TV" tvg-name="Gopuram TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-4-2026-11_20_49-PM-1.png" group-title="Tamil Local TV",Gopuram TV
+https://gopuram.stream.onecloudlive.in/gopuram/gopuramhd/index.m3u8
+#EXTINF:-1 tvg-id="Hai TV" tvg-name="Hai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_41_37-AM-1-185x278.png" group-title="Tamil Local TV",Hai TV
+https://play.applelive.in/stv/stv.m3u8
+#EXTINF:-1 tvg-id="Hansitha TV" tvg-name="Hansitha TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-28-2026-01_00_06-PM-1-185x278.png" group-title="Tamil Local TV",Hansitha TV
+https://air.rojatv.cloud/hanshitha/tv/index.m3u8
+#EXTINF:-1 tvg-id="Harin TV" tvg-name="Harin TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_01_23-AM-1-185x278.png" group-title="Tamil Local TV",Harin TV
+https://ipcloud.live/harintv/harintvhd/index.m3u8
+#EXTINF:-1 tvg-id="Hitech TV" tvg-name="Hitech TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-12-2025-12_19_47-PM-1-185x278.png" group-title="Tamil Local TV",Hitech TV
+https://app.ashokadigital.net/app/44ae008e/index.m3u8
+#EXTINF:-1 tvg-id="IBC Bakthi" tvg-name="IBC Bakthi" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/04/ChatGPT-Image-Apr-20-2025-10_57_18-PM-185x278.png" group-title="Tamil TV",IBC Bakthi
+https://webcast.emn.onl/IBC2/index.m3u8
+#EXTINF:-1 tvg-id="IBC Tamil" tvg-name="IBC Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-01_09_08-PM-185x278.png" group-title="Tamil TV",IBC Tamil
+https://webcast.emn.onl/IBC/index.m3u8
+#EXTINF:-1 tvg-id="Idhayam Kids" tvg-name="Idhayam Kids" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-20-2026-10_36_19-AM-1-185x278.png" group-title="Tamil Local TV",Idhayam Kids
+https://golden-tv.keralive.workers.dev/live2/idhayamkidz/index.m3u8
+#EXTINF:-1 tvg-id="Idhayam TV" tvg-name="Idhayam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-20-2026-10_20_23-AM-1-185x278.png" group-title="Tamil Local TV",Idhayam TV
+https://golden-tv.keralive.workers.dev/live2/idhayamtv/index.m3u8
+#EXTINF:-1 tvg-id="Imai TV" tvg-name="Imai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-23-2025-06_57_17-AM-1-185x278.png" group-title="Tamil Local TV",Imai TV
+https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Imayam" tvg-name="Imayam" tvg-logo="https://bhoomtv.org/wp-content/uploads/2021/04/ChatGPT-Image-Apr-10-2025-04_58_50-PM-1-185x278.png" group-title="Tamil TV",Imayam
+https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
+#EXTINF:-1 tvg-id="Irattaipaathai TV" tvg-name="Irattaipaathai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-17-2025-06_56_29-AM-1-185x278.png" group-title="Tamil Local TV",Irattaipaathai TV
+https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
+#EXTINF:-1 tvg-id="Isai Aruvi" tvg-name="Isai Aruvi" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Nov-4-2025-09_58_56-PM-1.png" group-title="Tamil TV",Isai Aruvi
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-id="Isai Saral" tvg-name="Isai Saral" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-12-2026-10_51_05-PM-1-185x278.png" group-title="Tamil Local TV",Isai Saral
+https://proxy.keralive.workers.dev/http://srnet.bmlive.net:1935/isaisaral/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="Jayam TV Karur" tvg-name="Jayam TV Karur" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-11-2025-04_07_30-PM-1-185x278.png" group-title="Tamil Local TV",Jayam TV Karur
+https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
+#EXTINF:-1 tvg-id="Jayam TV Namakkal" tvg-name="Jayam TV Namakkal" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_55_57-PM-1-185x278.png" group-title="Tamil Local TV",Jayam TV Namakkal
+https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
+#EXTINF:-1 tvg-id="Jayam TV Sivakasi" tvg-name="Jayam TV Sivakasi" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-4-2026-07_13_23-AM-1-185x278.png" group-title="Tamil Local TV",Jayam TV Sivakasi
+https://jayamtv-ott.tamilstream.in/jayamtv/sivakasi/playlist.m3u8
+#EXTINF:-1 tvg-id="Jayam TV Trichy" tvg-name="Jayam TV Trichy" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-27-2026-09_19_07-AM-1-185x278.png" group-title="Tamil Local TV",Jayam TV Trichy
+https://live.onecloudlive.in/jmhd/jmtv/index.m3u8
+#EXTINF:-1 tvg-id="JC TV" tvg-name="JC TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-10_18_02-PM-1.png" group-title="Tamil Local TV",JC TV
+https://play.applelive.in/jctv/jctv.m3u8
+#EXTINF:-1 tvg-id="JCV" tvg-name="JCV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_44_52-AM-1-185x278.png" group-title="Tamil Local TV",JCV
+https://play.applelive.in/jcvtv/jcvtv.m3u8
+#EXTINF:-1 tvg-id="JCV Musix" tvg-name="JCV Musix" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-07_55_02-AM-1-185x278.png" group-title="Tamil Local TV",JCV Musix
+https://play.applelive.in/jcvtv/jcvmusix.m3u8
+#EXTINF:-1 tvg-id="Jith TV" tvg-name="Jith TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-07_52_39-AM-1-185x278.png" group-title="Tamil Local TV",Jith TV
+https://sscloud7.com/live/jithtv/index.m3u8
+#EXTINF:-1 tvg-id="Jos TV Tirunelveli" tvg-name="Jos TV Tirunelveli" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/Dynamic-Jos-TV-logo-design-2-1-185x278.png" group-title="Tamil Local TV",Jos TV Tirunelveli
+https://phoenixcreations.keralive.workers.dev/jostv/jostv/jostv/index.m3u8
+#EXTINF:-1 tvg-id="Jose TV" tvg-name="Jose TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-13-2025-08_53_39-AM-1-185x278.png" group-title="Tamil Local TV",Jose TV
+https://phoenixcreations.keralive.workers.dev/josetv/josetv/josetv/index.m3u8
+#EXTINF:-1 tvg-id="JRP TV HD" tvg-name="JRP TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Aug-29-2026-11_31_11-PM-1.png" group-title="Tamil Local TV",JRP TV HD
+https://ipcloud.live/jrptv/jrphd/index.m3u8
+#EXTINF:-1 tvg-id="Kalaignar TV" tvg-name="Kalaignar TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Nov-4-2025-09_55_31-PM-1.png" group-title="Tamil TV",Kalaignar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanna TV" tvg-name="Kanna TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/Kanna-Tv-logo-with-dynamic-background-1-185x278.png" group-title="Tamil Local TV",Kanna TV
+https://web.applelive.in/stream/kktv/index.m3u8
+#EXTINF:-1 tvg-id="KC Music" tvg-name="KC Music" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-9-2026-04_56_29-PM-1-185x278.png" group-title="Tamil Local TV",KC Music
+https://rtmp.bmlive.net/bms/kcmusic/stream.m3u8
+#EXTINF:-1 tvg-id="KC TV Coimbatore" tvg-name="KC TV Coimbatore" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-May-11-2026-09_41_42-PM-1-185x278.png" group-title="Tamil Local TV",KC TV Coimbatore
+https://rtmp.bmlive.net/bms/kctv/stream.m3u8
+#EXTINF:-1 tvg-id="Khila TV" tvg-name="Khila TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-24-2026-03_44_31-PM-1.png" group-title="Tamil Local TV",Khila TV
+https://phoenixcreations.keralive.workers.dev/gun/khilatv/khilatv/index.m3u8
+#EXTINF:-1 tvg-id="King TV" tvg-name="King TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-19-2025-10_03_39-PM-1-185x278.png" group-title="Tamil Local TV",King TV
+https://server.sscloud7.in/kingtv/kingtv/index.m3u8
+#EXTINF:-1 tvg-id="Kings TV" tvg-name="Kings TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-11_27_49-AM-1-185x278.png" group-title="Tamil Local TV",Kings TV
+https://phoenixcreations.keralive.workers.dev/kingstv/kingstv/kings/index.m3u8
+#EXTINF:-1 tvg-id="KM Music" tvg-name="KM Music" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/02/ChatGPT-Image-Feb-17-2026-11_37_02-AM-1-185x278.png" group-title="Tamil Local TV",KM Music
+https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
+#EXTINF:-1 tvg-id="KM Television" tvg-name="KM Television" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-29-2026-11_44_46-PM-1.png" group-title="Tamil Local TV",KM Television
+https://stream.ashokadigital.net/KMTELEVISION/kmtelevision/index.m3u8
+#EXTINF:-1 tvg-id="Kollywood Plus" tvg-name="Kollywood Plus" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Aug-12-2026-09_45_45-AM-1-185x278.png" group-title="Tamil TV",Kollywood Plus
+https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
+#EXTINF:-1 tvg-id="Kollywood TV" tvg-name="Kollywood TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/07/ChatGPT-Image-Aug-12-2026-09_45_50-AM-1-185x278.png" group-title="Tamil TV",Kollywood TV
+https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starvijay_live_https/index.m3u8
+#EXTINF:-1 tvg-id="Kumari Kathir TV" tvg-name="Kumari Kathir TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-10_11_38-PM-1.png" group-title="Tamil Local TV",Kumari Kathir TV
+https://play.applelive.in/jjmax/jjmax.m3u8
+#EXTINF:-1 tvg-id="Kumari TV" tvg-name="Kumari TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Nov-4-2025-10_13_20-PM-1.png" group-title="Tamil Local TV",Kumari TV
+https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
+#EXTINF:-1 tvg-id="Lime TV Tenkasi" tvg-name="Lime TV Tenkasi" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-4-2026-07_08_57-PM-1-185x278.png" group-title="Tamil Local TV",Lime TV Tenkasi
+https://stream.iplive.xyz/limetv/limetvchannel/index.m3u8
+#EXTINF:-1 tvg-id="Lion TV" tvg-name="Lion TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-12_23_08-PM-1-185x278.png" group-title="Tamil Local TV",Lion TV
+https://stream.iplive.xyz/smmedia/liontv/index.m3u8
+#EXTINF:-1 tvg-id="Maa TV Tirunelveli" tvg-name="Maa TV Tirunelveli" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-11-2026-10_18_03-PM-1-185x278.png" group-title="Tamil Local TV",Maa TV Tirunelveli
+https://phoenixcreations.keralive.workers.dev/maatv/maatv/maatv/index.m3u8
+#EXTINF:-1 tvg-id="Madhimugam TV" tvg-name="Madhimugam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2023/05/ChatGPT-Image-Apr-10-2025-12_39_40-PM-185x278.png" group-title="Tamil TV",Madhimugam TV
+https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="Madurai Arasi TV" tvg-name="Madurai Arasi TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-12_00_41-PM-1-185x278.png" group-title="Tamil Local TV",Madurai Arasi TV
+https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
+#EXTINF:-1 tvg-id="Makkal TV" tvg-name="Makkal TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-01_10_36-PM-185x278.png" group-title="Tamil TV",Makkal TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Malar TV" tvg-name="Malar TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Aug-30-2026-12_06_10-AM-1.png" group-title="Tamil Local TV",Malar TV
+https://malartv-sscloud7-in.proxy.nellaiiptv.com/malartv/malartv/playlist.m3u8
+#EXTINF:-1 tvg-id="Malar TV" tvg-name="Malar TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/01/ChatGPT-Image-May-18-2025-07_32_34-AM-185x278.png" group-title="Tamil TV",Malar TV
+https://cdn-3.pishow.tv/live/473/master.m3u8
+#EXTINF:-1 tvg-id="Manasu TV" tvg-name="Manasu TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-25-2025-05_26_22-PM-1-185x278.png" group-title="Tamil Local TV",Manasu TV
+https://stream6.livebox.co.in/manasutvhls/live.m3u8
+#EXTINF:-1 tvg-id="Mangalam TV Tirunelveli" tvg-name="Mangalam TV Tirunelveli" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/Vibrant-Mangalam-HD-logo-design-1-185x278.png" group-title="Tamil Local TV",Mangalam TV Tirunelveli
+https://phoenixcreations.keralive.workers.dev/mangalamtv/mangalamtv/mangalam/index.m3u8
+#EXTINF:-1 tvg-id="Maniway TV" tvg-name="Maniway TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-08_11_15-PM-1-185x278.png" group-title="Tamil Local TV",Maniway TV
+https://live.singamcloud.in/bsctv/bsctv/index.m3u8
+#EXTINF:-1 tvg-id="Matha TV" tvg-name="Matha TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-31-2025-11_31_00-AM-1-185x278.png" group-title="Tamil Local TV",Matha TV
+https://live.mathatv.in/mathatv/mathatv/index.m3u8
+#EXTINF:-1 tvg-id="Mathan TV" tvg-name="Mathan TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-30-2026-03_36_38-PM-1-185x278.png" group-title="Tamil Local TV",Mathan TV
+https://ipcloud.live/mathantv/mathantv/index.m3u8
+#EXTINF:-1 tvg-id="Mathi TV" tvg-name="Mathi TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-2-2026-09_59_56-PM-1-185x278.png" group-title="Tamil Local TV",Mathi TV
+https://notvstream.in/mathitv/mathitv/index.m3u8
+#EXTINF:-1 tvg-id="MCN HD" tvg-name="MCN HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_58_08-PM-1-185x278.png" group-title="Tamil Local TV",MCN HD
+https://play.applelive.in/mcntv/mcntv.m3u8
+#EXTINF:-1 tvg-id="MDN TV" tvg-name="MDN TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-11-2026-10_27_06-PM-1-185x278.png" group-title="Tamil Local TV",MDN TV
+https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
+#EXTINF:-1 tvg-id="Me 24 Tamil" tvg-name="Me 24 Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-17-2026-01_55_36-PM-1-185x278.png" group-title="Tamil Local TV",Me 24 Tamil
+https://stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
+#EXTINF:-1 tvg-id="Mediacorp Entertainment – Tamil" tvg-name="Mediacorp Entertainment – Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2024/03/ChatGPT-Image-May-5-2026-12_34_23-PM-1-185x278.png" group-title="Tamil TV",Mediacorp Entertainment – Tamil
+https://mumbai-edge.smartplaytv.in/mediacorp/index.m3u8
+#EXTINF:-1 tvg-id="Mei Alai TV" tvg-name="Mei Alai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-14-2026-07_54_49-AM-1.png" group-title="Tamil Local TV",Mei Alai TV
+https://meialai.iptelevishion.com/meialai/2/index.m3u8
+#EXTINF:-1 tvg-id="MK Six" tvg-name="MK Six" tvg-logo="https://bhoomtv.org/wp-content/uploads/2023/11/ChatGPT-Image-Apr-10-2025-11_37_09-AM-185x278.png" group-title="Tamil TV",MK Six
+https://cdn.pishow.tv/ott/live/1253/master.m3u8
+#EXTINF:-1 tvg-id="MN Music" tvg-name="MN Music" tvg-logo="https://bhoomtv.org/wp-content/uploads/2021/04/ChatGPT-Image-Sep-23-2025-08_02_37-AM-1-185x278.png" group-title="Tamil Local TV",MN Music
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-id="MN TV" tvg-name="MN TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2021/04/ChatGPT-Image-Jan-11-2026-07_34_35-AM-1-185x278.png" group-title="Tamil Local TV",MN TV
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 tvg-id="Moon TV" tvg-name="Moon TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/11/ChatGPT-Image-Apr-10-2025-05_30_59-PM-185x278.png" group-title="Tamil TV",Moon TV
+https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="Moon TV HD" tvg-name="Moon TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-May-11-2026-09_46_15-PM-1-185x278.png" group-title="Tamil Local TV",Moon TV HD
+https://live.sscloud7.in/live/moontv/index.m3u8
+#EXTINF:-1 tvg-id="MS Mathan TV" tvg-name="MS Mathan TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/Vibrant-logo-with-traditional-elements-1-185x278.png" group-title="Tamil Local TV",MS Mathan TV
+https://phoenixcreations.keralive.workers.dev/madhantv/madhantv/madhantv/index.m3u8
+#EXTINF:-1 tvg-id="MTV Chennai" tvg-name="MTV Chennai" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-25-2026-05_51_29-PM-1-185x278.png" group-title="Tamil Local TV",MTV Chennai
+https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
+#EXTINF:-1 tvg-id="Mullai TV" tvg-name="Mullai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-12-2025-05_53_50-PM-1-185x278.png" group-title="Tamil Local TV",Mullai TV
+https://ipcloud.live/mullaitv/mullaitv/index.m3u8
+#EXTINF:-1 tvg-id="Murasu" tvg-name="Murasu" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Nov-4-2025-09_53_43-PM-1.png" group-title="Tamil TV",Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF:-1 tvg-id="Naga TV" tvg-name="Naga TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/Naga-City-TV-logo-design-2-1-185x278.png" group-title="Tamil Local TV",Naga TV
+https://phoenixcreations.keralive.workers.dev/nagatv/nagatv/nagatv/index.m3u8
+#EXTINF:-1 tvg-id="NH Tamil Gold" tvg-name="NH Tamil Gold" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-23-2026-01_14_12-PM-1-185x278.png" group-title="Tamil TV",NH Tamil Gold
+https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
+#EXTINF:-1 tvg-id="Nila TV" tvg-name="Nila TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/10/NILA-TV-4K-Neon-Splash-Logo-1-185x278.png" group-title="Tamil Local TV",Nila TV
+https://proxy.keralive.workers.dev/http://nilatvsg.stream.mystreams.in/live/nilatvsg/index.m3u8
+#EXTINF:-1 tvg-id="Nila TV" tvg-name="Nila TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/NILATV-185x278.png" group-title="Tamil Local TV",Nila TV
+https://live.olidigital.in/nilatv/nilatv/index.m3u8
+#EXTINF:-1 tvg-id="NTC TV HD" tvg-name="NTC TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/04/ChatGPT-Image-Mar-11-2026-11_21_54-PM-1-185x278.png" group-title="Tamil Local TV",NTC TV HD
+https://galaxyott.live//hls/ntv.m3u8
+#EXTINF:-1 tvg-id="NTN TV" tvg-name="NTN TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-09_00_39-AM-1-185x278.png" group-title="Tamil Local TV",NTN TV
+https://live.skystream.in/live/ntntv/index.m3u8?hls_ctx=1314owa2
+#EXTINF:-1 tvg-id="NTV Nellai" tvg-name="NTV Nellai" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-2-2026-11_21_42-AM-1-185x278.png" group-title="Tamil Local TV",NTV Nellai
+https://phoenixcreations.keralive.workers.dev/ntv/ntv/ntv/index.m3u8
+#EXTINF:-1 tvg-id="Oli TV HD" tvg-name="Oli TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/Tamil-TV-channel-logo-design-1-185x278.png" group-title="Tamil Local TV",Oli TV HD
+https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="Oscar TV" tvg-name="Oscar TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-10-2025-12_52_23-PM-1-185x278.png" group-title="Tamil Local TV",Oscar TV
+https://account21.livebox.co.in/oscartvhls/live.m3u8
+#EXTINF:-1 tvg-id="Pasamalar TV" tvg-name="Pasamalar TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-28-2026-09_32_27-AM-1-185x278.png" group-title="Tamil Local TV",Pasamalar TV
+https://stream.sscloud7.in/live/paasamalartv/index.m3u8
+#EXTINF:-1 tvg-id="PCN Channel HD" tvg-name="PCN Channel HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-09_16_25-PM-1-185x278.png" group-title="Tamil Local TV",PCN Channel HD
+https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
+#EXTINF:-1 tvg-id="Penguin TV" tvg-name="Penguin TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-25-2026-11_33_01-PM-1-185x278.png" group-title="Tamil Local TV",Penguin TV
+https://play.applelive.in/penguinhd/penguinhd.m3u8
+#EXTINF:-1 tvg-id="Peppers TV" tvg-name="Peppers TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/11/ChatGPT-Image-Apr-10-2025-05_09_54-PM-185x278.png" group-title="Tamil TV",Peppers TV
+https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="Polimer TV" tvg-name="Polimer TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Dec-22-2025-09_45_18-AM-1-185x278.png" group-title="Tamil TV",Polimer TV
+https://yupp-tv.keralive.workers.dev/120723/smil:polimertv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PR TV" tvg-name="PR TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-03_44_29-PM-1-185x278.png" group-title="Tamil Local TV",PR TV
+https://play.applelive.in/prtv/prtv.m3u8
+#EXTINF:-1 tvg-id="Prime Music HD" tvg-name="Prime Music HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-28-2026-08_18_51-PM-1-185x278.png" group-title="Tamil TV",Prime Music HD
+https://live.primestream.in/prime/music/index.m3u8
+#EXTINF:-1 tvg-id="Prime TV" tvg-name="Prime TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-3-2025-09_55_35-PM-1-185x278.png" group-title="Tamil Local TV",Prime TV
+https://live.applelive.in/primetv/primetv/index.m3u8
+#EXTINF:-1 tvg-id="Prince TV" tvg-name="Prince TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-11_40_11-AM-1-185x278.png" group-title="Tamil Local TV",Prince TV
+https://phoenixcreations.keralive.workers.dev/princetv/princetv/prince/index.m3u8
+#EXTINF:-1 tvg-id="Pugal TV" tvg-name="Pugal TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-15-2026-10_28_14-AM-1-185x278.png" group-title="Tamil Local TV",Pugal TV
+https://phoenixcreations.keralive.workers.dev/pugal/pugaltv/pugal/index.m3u8
+#EXTINF:-1 tvg-id="Punnagai Desam TV" tvg-name="Punnagai Desam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-25-2026-11_46_48-PM-1-185x278.png" group-title="Tamil Local TV",Punnagai Desam TV
+https://phoenixcreations.keralive.workers.dev/punnagaidesamtv/punnagaidesamtv/punnagaidesamtv/index.m3u8
+#EXTINF:-1 tvg-id="Puthuyugam TV" tvg-name="Puthuyugam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-12_53_48-PM-185x278.png" group-title="Tamil TV",Puthuyugam TV
+https://yupp-tv.keralive.workers.dev/260723/smil:puthuyugam1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Raagam TV" tvg-name="Raagam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-18-2026-07_44_33-PM-1-185x278.png" group-title="Tamil Local TV",Raagam TV
+https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
+#EXTINF:-1 tvg-id="Raga TV" tvg-name="Raga TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-07_42_23-AM-1-185x278.png" group-title="Tamil Local TV",Raga TV
+https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
+#EXTINF:-1 tvg-id="Ragam TV" tvg-name="Ragam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-20-2025-10_38_39-AM-1-185x278.png" group-title="Tamil Local TV",Ragam TV
+https://account26.livebox.co.in/RAGAMMTPhls/live.m3u8
+#EXTINF:-1 tvg-id="Raj Digital Plus" tvg-name="Raj Digital Plus" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Oct-9-2025-09_30_48-PM-1-185x278.png" group-title="Tamil TV",Raj Digital Plus
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+#EXTINF:-1 tvg-id="Raj Musix" tvg-name="Raj Musix" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Oct-9-2025-09_49_13-PM-1-185x278.png" group-title="Tamil TV",Raj Musix
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+#EXTINF:-1 tvg-id="Raj TV" tvg-name="Raj TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Oct-9-2025-09_28_02-PM-1-185x278.png" group-title="Tamil TV",Raj TV
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
+#EXTINF:-1 tvg-id="Raja TV Valliyur" tvg-name="Raja TV Valliyur" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/02/ChatGPT-Image-Feb-25-2026-08_24_18-PM-1-185x278.png" group-title="Tamil Local TV",Raja TV Valliyur
+https://phoenixcreations.keralive.workers.dev/rajatv/rajatv/raja/index.m3u8
+#EXTINF:-1 tvg-id="Retro Music" tvg-name="Retro Music" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Sep-5-2026-06_47_48-PM-1.png" group-title="Tamil Local TV",Retro Music
+https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
+#EXTINF:-1 tvg-id="Right TV" tvg-name="Right TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-18-2026-05_01_16-PM-1-185x278.png" group-title="Tamil Local TV",Right TV
+https://app.ashokadigital.net/app/0fa2ea5d/index.m3u8
+#EXTINF:-1 tvg-id="Riya TV" tvg-name="Riya TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-03_37_37-PM-1-185x278.png" group-title="Tamil Local TV",Riya TV
+https://play.applelive.in/riyatv/riyatv.m3u8
+#EXTINF:-1 tvg-id="RJ Tamil TV" tvg-name="RJ Tamil TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-10_25_51-PM-1-185x278.png" group-title="Tamil Local TV",RJ Tamil TV
+https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+#EXTINF:-1 tvg-id="RK TV Tenkasi" tvg-name="RK TV Tenkasi" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/Dynamic-RK-TV-logo-design-1-185x278.png" group-title="Tamil Local TV",RK TV Tenkasi
+https://phoenixcreations.keralive.workers.dev/rktv/rktv/rktv/index.m3u8
+#EXTINF:-1 tvg-id="Rock TV" tvg-name="Rock TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Mar-11-2026-11_16_01-PM-1-185x278.png" group-title="Tamil Local TV",Rock TV
+https://apis.avmediawork.in/tvhls/rocktv.m3u8
+#EXTINF:-1 tvg-id="Roja Movies" tvg-name="Roja Movies" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_15_14-AM-1-185x278.png" group-title="Tamil Local TV",Roja Movies
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-id="Roja TV" tvg-name="Roja TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_15_01-AM-1-185x278.png" group-title="Tamil Local TV",Roja TV
+https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-id="Roja TV Coimbatore" tvg-name="Roja TV Coimbatore" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/Rose-malai-logo-with-vibrant-roses-1-185x278.png" group-title="Tamil Local TV",Roja TV Coimbatore
+https://phoenixcreations.keralive.workers.dev/rojatv/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-id="Ruby Digital TV" tvg-name="Ruby Digital TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-3-2026-10_56_47-PM-1-185x278.png" group-title="Tamil Local TV",Ruby Digital TV
+https://stream.ashokadigital.net/RubyDigitalTv/RubyDigitalTv/index.m3u8
+#EXTINF:-1 tvg-id="Ruhasha TV" tvg-name="Ruhasha TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-28-2026-10_47_53-PM-1-185x278.png" group-title="Tamil Local TV",Ruhasha TV
+https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
+#EXTINF:-1 tvg-id="S Max Tamil" tvg-name="S Max Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-7-2026-08_26_13-AM-1-185x278.png" group-title="Tamil Local TV",S Max Tamil
+https://play.applelive.in/smaxtv/smaxtv.m3u8
+#EXTINF:-1 tvg-id="S Media Puducherry" tvg-name="S Media Puducherry" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-24-2026-10_43_10-AM-1-185x278.png" group-title="Tamil Local TV",S Media Puducherry
+https://smedia-tamil.keralive.workers.dev/riptv/live/S_MEDIA/index.m3u8
+#EXTINF:-1 tvg-id="Sachin TV" tvg-name="Sachin TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-10_13_43-AM-1-185x278.png" group-title="Tamil Local TV",Sachin TV
+https://live3.onecloudlive.in/sachintv/sarvikhd/index.m3u8
+#EXTINF:-1 tvg-id="Sachin TV Music" tvg-name="Sachin TV Music" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-10_13_07-AM-1-185x278.png" group-title="Tamil Local TV",Sachin TV Music
+https://ipcloud.live/sachintv/musichd/index.m3u8
+#EXTINF:-1 tvg-id="Sailam TV" tvg-name="Sailam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-14-2025-06_16_10-PM-1-185x278.png" group-title="Tamil Local TV",Sailam TV
+https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
+#EXTINF:-1 tvg-id="Sakthi TV HD" tvg-name="Sakthi TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-08_43_36-AM-1-185x278.png" group-title="Tamil Local TV",Sakthi TV HD
+https://live.sscloud7.in/live/sakthitv/index.m3u8
+#EXTINF:-1 tvg-id="Salvation TV" tvg-name="Salvation TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/04/ChatGPT-Image-Apr-30-2025-10_05_22-PM-185x278.png" group-title="Tamil TV",Salvation TV
+https://ktismaservers.in:3902/live/salvationtvlive.m3u8
+#EXTINF:-1 tvg-id="Sana Plus HD" tvg-name="Sana Plus HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/04/ChatGPT-Image-Oct-18-2025-07_07_00-AM-1-185x278.png" group-title="Tamil Local TV",Sana Plus HD
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
+#EXTINF:-1 tvg-id="Sana TV HD" tvg-name="Sana TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/04/ChatGPT-Image-Oct-18-2025-07_05_58-AM-1-185x278.png" group-title="Tamil Local TV",Sana TV HD
+https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
+#EXTINF:-1 tvg-id="Santhiya TV Kumbakonam" tvg-name="Santhiya TV Kumbakonam" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-11-2026-10_10_46-PM-1-185x278.png" group-title="Tamil Local TV",Santhiya TV Kumbakonam
+https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
+#EXTINF:-1 tvg-id="Sasi TV" tvg-name="Sasi TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-13-2025-09_01_12-AM-1-185x278.png" group-title="Tamil Local TV",Sasi TV
+https://phoenixcreations.keralive.workers.dev/sasitv/sasitv/sasitv/index.m3u8
+#EXTINF:-1 tvg-id="SGB TV" tvg-name="SGB TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-2-2026-08_21_09-PM-1-185x278.png" group-title="Tamil Local TV",SGB TV
+https://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8
+#EXTINF:-1 tvg-id="Sha TV" tvg-name="Sha TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-06_48_27-PM-1-185x278.png" group-title="Tamil Local TV",Sha TV
+https://play.applelive.in/shatv/shatv.m3u8
+#EXTINF:-1 tvg-id="Shakthi Channel" tvg-name="Shakthi Channel" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-30-2026-10_11_32-AM-1-185x278.png" group-title="Tamil Local TV",Shakthi Channel
+https://cloudstream4k.com/shakthihd/bsk/playlist.m3u8
+#EXTINF:-1 tvg-id="Shalini TV" tvg-name="Shalini TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-20-2025-10_30_43-AM-1-185x278.png" group-title="Tamil Local TV",Shalini TV
+https://app.ashokadigital.net/app/55c65ef4/index.m3u8
+#EXTINF:-1 tvg-id="Shalini TV" tvg-name="Shalini TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_46_39-AM-1-185x278.png" group-title="Tamil Local TV",Shalini TV
+https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+#EXTINF:-1 tvg-id="Shalwin TV HD" tvg-name="Shalwin TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-11-2026-09_26_19-PM-1-185x278.png" group-title="Tamil Local TV",Shalwin TV HD
+https://live3.onecloudlive.in/shalwintv/shalwintv/index.m3u8
+#EXTINF:-1 tvg-id="Silver Sat Media" tvg-name="Silver Sat Media" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-30-2026-12_16_34-AM-1.png" group-title="Tamil Local TV",Silver Sat Media
+https://sanplayout.xyz/live2/silversatmedia/index.m3u8
+#EXTINF:-1 tvg-id="Sirippoli TV" tvg-name="Sirippoli TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Nov-4-2025-10_01_25-PM-1.png" group-title="Tamil TV",Sirippoli TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/240122/siripoli/playlist.m3u8
+#EXTINF:-1 tvg-id="SJ Surya TV" tvg-name="SJ Surya TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-10_30_06-AM-1-185x278.png" group-title="Tamil Local TV",SJ Surya TV
+https://ipcloud.live/nellaitv/suriyatv/index.m3u8
+#EXTINF:-1 tvg-id="Sky Plus TV" tvg-name="Sky Plus TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-18-2025-06_24_40-PM-1-185x278.png" group-title="Tamil Local TV",Sky Plus TV
+https://ipcloud.live/skytv/skytv/index.m3u8
+#EXTINF:-1 tvg-id="Smart Sri TV" tvg-name="Smart Sri TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-25-2026-01_45_57-PM-1-185x278.png" group-title="Tamil Local TV",Smart Sri TV
+https://mumbai-edge.smartplaytv.in/smartsri/index.m3u8
+#EXTINF:-1 tvg-id="Sooriyan TV" tvg-name="Sooriyan TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-23-2025-06_47_54-AM-1-185x278.png" group-title="Tamil Local TV",Sooriyan TV
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#EXTINF:-1 tvg-id="Sooriyan TV Cinema" tvg-name="Sooriyan TV Cinema" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-08_44_41-AM-1-185x278.png" group-title="Tamil Local TV",Sooriyan TV Cinema
+https://live20.bozztv.com/giatv/giatv-Sooriyantv/Sooriyantv/playlist.m3u8
+#EXTINF:-1 tvg-id="Spice TV" tvg-name="Spice TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-29-2026-11_48_00-PM-1.png" group-title="Tamil Local TV",Spice TV
+https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
+#EXTINF:-1 tvg-id="SR Musix HD" tvg-name="SR Musix HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-10-2026-11_32_52-PM-1-185x278.png" group-title="Tamil Local TV",SR Musix HD
+https://srnet-bmlive-net.proxy.nellaiiptv.com/srmusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sri Sai TV" tvg-name="Sri Sai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ச்ரீசாய்-TV-லோகோ-with-motion-lines-1-185x278.png" group-title="Tamil Local TV",Sri Sai TV
+https://annainew.livebox.co.in/srisaihls/live.m3u8
+#EXTINF:-1 tvg-id="Sri Sankara Tamil" tvg-name="Sri Sankara Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-09_00_23-PM-1-185x278.png" group-title="Tamil TV",Sri Sankara Tamil
+https://d2gvyg6lvauoko.cloudfront.net/230226/srisankaratamil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="Sri TV" tvg-name="Sri TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-11_30_31-AM-1-185x278.png" group-title="Tamil Local TV",Sri TV
+https://phoenixcreations.keralive.workers.dev/sritv/sritv/sri/index.m3u8
+#EXTINF:-1 tvg-id="Sri Vinayaga Hollywood" tvg-name="Sri Vinayaga Hollywood" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Sep-19-2026-08_57_32-AM-1-185x278.png" group-title="Tamil Local TV",Sri Vinayaga Hollywood
+https://nellai-iptv.keralive.workers.dev/srivinayagatv/hollywood/index.m3u8?host=1
+#EXTINF:-1 tvg-id="Sri Vinayaga Movies" tvg-name="Sri Vinayaga Movies" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-5-2026-10_40_46-PM-1-185x278.png" group-title="Tamil Local TV",Sri Vinayaga Movies
+https://nellai-iptv.keralive.workers.dev/srivinayagatv/movies/index.m3u8?host=1
+#EXTINF:-1 tvg-id="Sri Vinayaga TV" tvg-name="Sri Vinayaga TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-5-2026-10_36_07-PM-1-185x278.png" group-title="Tamil Local TV",Sri Vinayaga TV
+https://nellai-iptv.keralive.workers.dev/srivinayagatv/hd/index.m3u8?host=1
+#EXTINF:-1 tvg-id="SS TV" tvg-name="SS TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_39_49-PM-1-185x278.png" group-title="Tamil Local TV",SS TV
+https://server.sscloud7.in/live/sshd/index.m3u8
+#EXTINF:-1 tvg-id="SSS HD" tvg-name="SSS HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-29-2026-11_33_39-PM-1.png" group-title="Tamil Local TV",SSS HD
+https://app.ashokadigital.net/app/74f6070c/index.m3u8
+#EXTINF:-1 tvg-id="Star Media" tvg-name="Star Media" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-30-2026-03_49_26-PM-1-185x278.png" group-title="Tamil Local TV",Star Media
+https://rtmp.notvstream.in/starmedia/starmedia/index.m3u8
+#EXTINF:-1 tvg-id="STN TV" tvg-name="STN TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-05_03_02-PM-1-185x278.png" group-title="Tamil Local TV",STN TV
+https://play.applelive.in/stntv/stntv.m3u8
+#EXTINF:-1 tvg-id="Subash TV Tenkasi" tvg-name="Subash TV Tenkasi" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/Sun-TV-HD-logo-design-1-185x278.png" group-title="Tamil Local TV",Subash TV Tenkasi
+https://phoenixcreations.keralive.workers.dev/subash/subash/subash/index.m3u8
+#EXTINF:-1 tvg-id="Subin TV" tvg-name="Subin TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Mar-11-2026-11_20_45-PM-1-185x278.png" group-title="Tamil Local TV",Subin TV
+https://stream.ottlive.co.in/subintvtamil/index.m3u8
+#EXTINF:-1 tvg-id="Succes TV Tamil" tvg-name="Succes TV Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-25-2025-05_38_06-PM-1-185x278.png" group-title="Tamil Local TV",Succes TV Tamil
+https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
+#EXTINF:-1 tvg-id="Superfine Films Tamil" tvg-name="Superfine Films Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Jul-27-2026-10_07_44-PM-1-185x278.png" group-title="Tamil TV",Superfine Films Tamil
+https://runn-tv.keralive.workers.dev/runntv/stream/suptam/playlist.m3u8
+#EXTINF:-1 tvg-id="Suriya TV Tamil" tvg-name="Suriya TV Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/04/ChatGPT-Image-Mar-11-2026-11_31_35-PM-1-185x278.png" group-title="Tamil Local TV",Suriya TV Tamil
+https://galaxyott.live/hls//suryatv.m3u8
+#EXTINF:-1 tvg-id="Suriyan TV" tvg-name="Suriyan TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-11-2025-03_56_21-PM-1-185x278.png" group-title="Tamil Local TV",Suriyan TV
+https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+#EXTINF:-1 tvg-id="Tamil Oli TV" tvg-name="Tamil Oli TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/oli-1-185x278.png" group-title="Tamil Local TV",Tamil Oli TV
+https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+#EXTINF:-1 tvg-id="Tamil View TV" tvg-name="Tamil View TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-01_19_56-PM-1-185x278.png" group-title="Tamil Local TV",Tamil View TV
+https://5790d294af2dc.streamlock.net/tvt/tvt/playlist.m3u8
+#EXTINF:-1 tvg-id="Tamilan TV" tvg-name="Tamilan TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2023/12/ChatGPT-Image-Sep-1-2025-11_45_07-AM-1-185x278.png" group-title="Tamil TV",Tamilan TV
+https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TBC TV" tvg-name="TBC TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-16-2026-11_05_33-PM-1-185x278.png" group-title="Tamil Local TV",TBC TV
+https://stream.iplive.xyz/smmedia/tbctv/index.m3u8
+#EXTINF:-1 tvg-id="Thaai TV" tvg-name="Thaai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-08_57_34-AM-1-185x278.png" group-title="Tamil Local TV",Thaai TV
+https://cd198.anystream.uk:9092/kaneen/thailive/playlist.m3u8
+#EXTINF:-1 tvg-id="Thalaa TV" tvg-name="Thalaa TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2023/12/ChatGPT-Image-Feb-18-2026-03_07_52-PM-1-185x278.png" group-title="Tamil TV",Thalaa TV
+https://streams2.sofast.tv/r/ptnr-swifttv/title-THALAA-TV-TAM/sofastplayout/981f8f06-782a-4962-b5e0-7dcccd65279c_0_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="Thalaivar Hits" tvg-name="Thalaivar Hits" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-12_39_14-PM-1-185x278.png" group-title="Tamil TV",Thalaivar Hits
+https://thalaivar-hits.keralive.workers.dev/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nuot8fierqxsv/vglive-sk-505974/v1/019ed4237f0f15fc600b1796d4ad80/019ed42e801215fc600b1796d4ad83/playlist.m3u8
+#EXTINF:-1 tvg-id="Thalapathy TV" tvg-name="Thalapathy TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-03_41_50-PM-1-185x278.png" group-title="Tamil Local TV",Thalapathy TV
+https://app.ashokadigital.net/app/1ef919c6/index.m3u8
+#EXTINF:-1 tvg-id="Thamilaaram TV" tvg-name="Thamilaaram TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/04/ChatGPT-Image-Apr-28-2025-02_57_02-PM-185x278.png" group-title="Tamil TV",Thamilaaram TV
+https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-channel/play/ThamilaaramTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tharun Movies HD" tvg-name="Tharun Movies HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_43_13-AM-1-185x278.png" group-title="Tamil Local TV",Tharun Movies HD
+https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+#EXTINF:-1 tvg-id="Thendral TV Alangulam" tvg-name="Thendral TV Alangulam" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-25-2026-11_44_40-PM-1-185x278.png" group-title="Tamil Local TV",Thendral TV Alangulam
+https://phoenixcreations.keralive.workers.dev/almthendraltv/almthendraltv/almthendraltv/index.m3u8
+#EXTINF:-1 tvg-id="Thendral TV Madurai" tvg-name="Thendral TV Madurai" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-11-2026-09_12_16-PM-1-185x278.png" group-title="Tamil Local TV",Thendral TV Madurai
+https://w6oy7zkpdxrg-hls-live.5centscdn.com/THENDRALHD/aac0b08f91370cd39f61343d2b6e8069.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Thirai Isai" tvg-name="Thirai Isai" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_31_36-PM-1-185x278.png" group-title="Tamil Local TV",Thirai Isai
+https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+#EXTINF:-1 tvg-id="Thirai TV" tvg-name="Thirai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_24_12-PM-1-185x278.png" group-title="Tamil Local TV",Thirai TV
+https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
+#EXTINF:-1 tvg-id="Time TV" tvg-name="Time TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-08_53_23-AM-1-185x278.png" group-title="Tamil Local TV",Time TV
+https://live.olidigital.in/timetv/timetv/index.m3u8
+#EXTINF:-1 tvg-id="TNSE Tamil" tvg-name="TNSE Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-01_21_41-PM-1-185x278.png" group-title="Tamil Local TV",TNSE Tamil
+https://5790d294af2dc.streamlock.net/mchanneltv24/mchanneltv24/playlist.m3u8
+#EXTINF:-1 tvg-id="TOP TV" tvg-name="TOP TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-12-2025-09_38_53-PM-1-185x278.png" group-title="Tamil Local TV",TOP TV
+https://phoenixcreations.keralive.workers.dev/toptv/toptv/toptv/index.m3u8
+#EXTINF:-1 tvg-id="TTN TV" tvg-name="TTN TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/10/Futuristic-TTN-Golden-Orb-Logo-1-185x278.png" group-title="Tamil Local TV",TTN TV
+https://rasi-tv.keralive.workers.dev/ttn.m3u8
+#EXTINF:-1 tvg-id="Tunes 6" tvg-name="Tunes 6" tvg-logo="https://bhoomtv.org/wp-content/uploads/2021/11/ChatGPT-Image-Jul-12-2025-10_24_20-AM-185x278.png" group-title="Tamil TV",Tunes 6
+https://stream.d6-pro.com/tunes6music/live/index.m3u8
+#EXTINF:-1 tvg-id="TVi HD" tvg-name="TVi HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2023/09/ChatGPT-Image-Apr-10-2025-11_20_52-AM-185x278.png" group-title="Tamil TV",TVi HD
+https://live.cmr24.fm/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="UCN TV" tvg-name="UCN TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/10/Vibrant-UCN-TV-Broadcast-Splash-1-185x278.png" group-title="Tamil Local TV",UCN TV
+https://edge-tpr-01.tamilstreams.com/app/ucntv/index.m3u8
+#EXTINF:-1 tvg-id="Urchagam TV" tvg-name="Urchagam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_33_53-AM-1-185x278.png" group-title="Tamil Local TV",Urchagam TV
+https://rtmp.bmlive.net/bms/urchagamtv/stream.m3u8
+#EXTINF:-1 tvg-id="UTV HD" tvg-name="UTV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/04/ChatGPT-Image-Mar-11-2026-11_27_27-PM-1-185x278.png" group-title="Tamil Local TV",UTV HD
+https://mumbai-edge.smartplaytv.in/utv/index.m3u8
+#EXTINF:-1 tvg-id="V Tamil" tvg-name="V Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Aug-2-2026-09_54_15-PM-1-185x278.png" group-title="Tamil Local TV",V Tamil
+https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
+#EXTINF:-1 tvg-id="V Tamil HD" tvg-name="V Tamil HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-27-2026-10_56_23-PM-1-185x278.png" group-title="Tamil Local TV",V Tamil HD
+https://app.ashokadigital.net/app/89c09acf/index.m3u8
+#EXTINF:-1 tvg-id="Vaagai TV" tvg-name="Vaagai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-29-2026-11_54_50-PM-1.png" group-title="Tamil Local TV",Vaagai TV
+https://app.ashokadigital.net/app/7fe2793b/index.m3u8
+#EXTINF:-1 tvg-id="Vaanam TV HD" tvg-name="Vaanam TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-7-2026-07_59_58-AM-1-185x278.png" group-title="Tamil Local TV",Vaanam TV HD
+https://lanka.vaanam24.com:3712/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Vaanavil TV" tvg-name="Vaanavil TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2021/04/ChatGPT-Image-Apr-10-2025-04_55_31-PM-185x278.png" group-title="Tamil Local TV",Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Vajra TV" tvg-name="Vajra TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-10-2025-04_41_06-PM-1-185x278.png" group-title="Tamil Local TV",Vajra TV
+https://app.ashokadigital.net/app/3b31be9f/index.m3u8
+#EXTINF:-1 tvg-id="Vajram TV" tvg-name="Vajram TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-10-2025-04_38_33-PM-1-185x278.png" group-title="Tamil Local TV",Vajram TV
+https://app.ashokadigital.net/app/68b001a0/index.m3u8
+#EXTINF:-1 tvg-id="Vasanth TV" tvg-name="Vasanth TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Nov-8-2025-08_29_03-AM-1-185x278.png" group-title="Tamil TV",Vasanth TV
+https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8
+#EXTINF:-1 tvg-id="Veerali TV" tvg-name="Veerali TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-06_45_44-PM-1-185x278.png" group-title="Tamil Local TV",Veerali TV
+https://ipcloud.live/veerali/veeralitv/index.m3u8
+#EXTINF:-1 tvg-id="Vel TV" tvg-name="Vel TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-11_33_40-AM-1-185x278.png" group-title="Tamil Local TV",Vel TV
+https://phoenixcreations.keralive.workers.dev/saran/veltv/vel/index.m3u8
+#EXTINF:-1 tvg-id="Velicham TV" tvg-name="Velicham TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2024/01/ChatGPT-Image-Apr-10-2025-04_48_00-PM-185x278.png" group-title="Tamil Local TV",Velicham TV
+https://cdn.smartstream.video/smartstream-us/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vendhar TV" tvg-name="Vendhar TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-May-5-2026-12_39_47-PM-1-185x278.png" group-title="Tamil TV",Vendhar TV
+https://yupp-tv.keralive.workers.dev/120723/smil:vendhartv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Vetri TV" tvg-name="Vetri TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-11_42_40-AM-1-185x278.png" group-title="Tamil Local TV",Vetri TV
+https://phoenixcreations.keralive.workers.dev/vetritv/vetritv/vetritv/index.m3u8
+#EXTINF:-1 tvg-id="Vidiyal TV" tvg-name="Vidiyal TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/02/ChatGPT-Image-Feb-12-2026-11_50_35-AM-1-185x278.png" group-title="Tamil Local TV",Vidiyal TV
+https://account11.livebox.co.in/vidyaltvhls/live.m3u8
+#EXTINF:-1 tvg-id="Vinayaga TV" tvg-name="Vinayaga TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-29-2026-11_28_39-PM-1.png" group-title="Tamil Local TV",Vinayaga TV
+https://app.ashokadigital.net/app/9d60f10e/index.m3u8
+#EXTINF:-1 tvg-id="VTV Entertainment" tvg-name="VTV Entertainment" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-May-8-2026-03_54_49-PM-1-185x278.png" group-title="Tamil Local TV",VTV Entertainment
+https://live-stream.in/vtv/vtv/index.m3u8
+#EXTINF:-1 tvg-id="WE Baduga TV" tvg-name="WE Baduga TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-08_57_40-AM-1-185x278.png" group-title="Tamil Local TV",WE Baduga TV
+https://rtmp.bmlive.net/webaduga/webaduga/stream.m3u8
+#EXTINF:-1 tvg-id="WOW Kidz Tamil" tvg-name="WOW Kidz Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-10_00_50-PM-1-185x278.png" group-title="Tamil TV",WOW Kidz Tamil
+https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
