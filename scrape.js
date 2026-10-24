@@ -3,7 +3,7 @@ import * as cheerio from "cheerio";
 
 const BASE = "https://bhoomtv.org";
 //const LIST_PATH = "/channel/tamil-local-tv/page";
-const LIST_PATH = "/channel/tamil/page";
+const LIST_PATHS = ["/channel/tamil-local-tv/page", "/channel/tamil/page"];
 const MAX_PAGES = 50; // safety cap
 const DELAY_MS = 800; // polite delay between requests
 const OUTPUT_FILE = "bhoomtv_results.json";
@@ -153,68 +153,74 @@ async function main() {
   const results = [];
   const failed = [];
 
-  // Page 1 (also to discover last page)
-  console.log(`▶ Fetching page 1 ...`);
-  let firstHtml;
-  try {
-    firstHtml = await fetchHtml(`${BASE}${LIST_PATH}/1/`);
-  } catch (e) {
-    console.error(`✖ Could not load page 1: ${e.message}`);
-    console.error(
-      "\nThis is the 403 you saw. Options:\n" +
-        "  • Run from a different IP / residential proxy\n" +
-        "  • Use the Playwright block below (open a real browser)\n",
-    );
-    process.exit(1);
-  }
+  for (const listPath of LIST_PATHS) {
+    console.log(`\n=== Processing: ${listPath} ===`);
 
-  const lastPage = Math.min(getLastPage(firstHtml), MAX_PAGES);
-  console.log(`✔ Detected last page: ${lastPage}`);
-
-  let pageHtml = firstHtml;
-  for (let p = 1; p <= lastPage; p++) {
-    if (p > 1) {
-      await sleep(DELAY_MS);
-      const url = `${BASE}${LIST_PATH}/${p}/`;
-      console.log(`▶ Fetching page ${p} ...`);
-      try {
-        pageHtml = await fetchHtml(url);
-      } catch (e) {
-        console.error(`  ✖ Page ${p} failed: ${e.message}`);
-        continue;
-      }
+    // Page 1 (also to discover last page)
+    console.log(`▶ Fetching page 1 ...`);
+    let firstHtml;
+    try {
+      firstHtml = await fetchHtml(`${BASE}${listPath}/1/`);
+    } catch (e) {
+      console.error(`✖ Could not load page 1 for ${listPath}: ${e.message}`);
+      continue;
     }
 
-    const items = parseListPage(pageHtml);
-    console.log(`  • page ${p}: ${items.length} articles`);
+    const lastPage = Math.min(getLastPage(firstHtml), MAX_PAGES);
+    console.log(`✔ Detected last page: ${lastPage}`);
 
-    for (const it of items) {
-      process.stdout.write(`    → id=${it.id} "${it.name}" ... `);
-      const player = await getPlayer(it.id);
-      await sleep(300); // polite gap for the API
+    let pageHtml = firstHtml;
+    for (let p = 1; p <= lastPage; p++) {
+      if (p > 1) {
+        await sleep(DELAY_MS);
+        const url = `${BASE}${listPath}/${p}/`;
+        console.log(`▶ Fetching page ${p} ...`);
+        try {
+          pageHtml = await fetchHtml(url);
+        } catch (e) {
+          console.error(`  ✖ Page ${p} failed: ${e.message}`);
+          continue;
+        }
+      }
 
-      const record = {
-        id: it.id,
-        name: it.name,
-        img_url: it.img_url,
-        page_url: it.url,
-        player_type: player.type ?? null,
-        embed_url: player.embed_url ?? null,
-        source: player.source ?? null,
-        kind: player.kind ?? null,
-        skipped_b4uplay: player.skipped ?? false,
-      };
+      const items = parseListPage(pageHtml);
+      console.log(`  • page ${p}: ${items.length} articles`);
 
-      if (player.ok) {
-        console.log(
-          player.skipped
-            ? "skipped (b4uplay)"
-            : `ok [${player.kind}] ${player.source ? player.source.slice(0, 60) + "…" : "no-source"}`,
-        );
-        results.push(record);
-      } else {
-        console.log(`FAIL (${player.error})`);
-        failed.push({ ...record, error: player.error });
+      for (const it of items) {
+        // Skip if we already have this ID in results to avoid duplicates across categories
+        if (results.some((r) => r.id === it.id)) {
+          console.log(`    → id=${it.id} "${it.name}" (already scraped, skipping)`);
+          continue;
+        }
+
+        process.stdout.write(`    → id=${it.id} "${it.name}" ... `);
+        const player = await getPlayer(it.id);
+        await sleep(300); // polite gap for the API
+
+        const record = {
+          id: it.id,
+          name: it.name,
+          img_url: it.img_url,
+          page_url: it.url,
+          category: listPath.includes("local-tv") ? "Tamil Local TV" : "Tamil TV",
+          player_type: player.type ?? null,
+          embed_url: player.embed_url ?? null,
+          source: player.source ?? null,
+          kind: player.kind ?? null,
+          skipped_b4uplay: player.skipped ?? false,
+        };
+
+        if (player.ok) {
+          console.log(
+            player.skipped
+              ? "skipped (b4uplay)"
+              : `ok [${player.kind}] ${player.source ? player.source.slice(0, 60) + "…" : "no-source"}`,
+          );
+          results.push(record);
+        } else {
+          console.log(`FAIL (${player.error})`);
+          failed.push({ ...record, error: player.error });
+        }
       }
     }
   }

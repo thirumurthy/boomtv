@@ -7,9 +7,6 @@ const PLAYLIST_NAME = "BhoomTV – Tamil Local TV";
 const INCLUDE_MP4 = true; // mp4 sources are playable in VLC/Kodi
 const INCLUDE_DASH = false; // .mpd won't play in most M3U consumers
 
-// group-title to write into the M3U; you can derive it from page_url if you want
-const GROUP_TITLE = "Tamil Local TV";
-
 // ---------- Helpers ----------
 // M3U attribute values must escape double-quotes and commas-per-attribute rules:
 // we wrap values in double quotes and escape embedded quotes.
@@ -19,6 +16,9 @@ const esc = (s = "") =>
 const isHls = (u) => /\.m3u8(\?|#|$)/i.test(u);
 const isDash = (u) => /\.mpd(\?|#|$)/i.test(u);
 const isMp4 = (u) => /\.mp4(\?|#|$)/i.test(u);
+
+// De-dup helper using source URL; category is read from record data
+const groupFromRecord = (it) => it.category || "Tamil Local TV";
 
 // ---------- Main ----------
 async function main() {
@@ -85,11 +85,12 @@ async function main() {
     seen.add(source);
 
     // #EXTINF:<duration> key="value" ...,Display Name
+    const groupTitle = groupFromRecord(it);
     const attrs = [
       `tvg-id="${esc(name)}"`,
       `tvg-name="${esc(name)}"`,
       `tvg-logo="${esc(logo)}"`,
-      `group-title="${esc(GROUP_TITLE)}"`,
+      `group-title="${esc(groupTitle)}"`,
     ].join(" ");
 
     lines.push(`#EXTINF:-1 ${attrs},${name}`);
