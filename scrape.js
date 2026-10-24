@@ -12,12 +12,21 @@ const DEBUG_FILE = "bhoomtv_failed.json";
 // ---------- Headers you asked for ----------
 const HEADERS = {
   "User-Agent":
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+  "Sec-Ch-Ua": '"Google Chrome";v="129", "Not=A?Brand";v="8", "Chromium";v="129"',
+  "Sec-Ch-Ua-Mobile": "?0",
+  "Sec-Ch-Ua-Platform": '"Windows"',
   Accept:
-    "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
   "Accept-Language": "en-US,en;q=0.9",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
   Referer: "https://bhoomtv.org/",
   "Upgrade-Insecure-Requests": "1",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "none",
+  "Sec-Fetch-User": "?1",
+  Connection: "keep-alive",
 };
 
 const API_HEADERS = {
@@ -31,13 +40,25 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 // ---------- HTTP helper with browser-ish headers ----------
 async function fetchHtml(url) {
   const res = await fetch(url, { headers: HEADERS, redirect: "follow" });
-  if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+  if (!res.ok) {
+    console.error(`DEBUG: Failed URL: ${url}`);
+    console.error(`DEBUG: Response Status: ${res.status}`);
+    const body = await res.text();
+    console.error(`DEBUG: Response Body (first 500 chars): ${body.substring(0, 500)}`);
+    throw new Error(`HTTP ${res.status} for ${url}`);
+  }
   return res.text();
 }
 
 async function fetchJson(url) {
   const res = await fetch(url, { headers: API_HEADERS, redirect: "follow" });
-  if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+  if (!res.ok) {
+    console.error(`DEBUG: Failed JSON URL: ${url}`);
+    console.error(`DEBUG: Response Status: ${res.status}`);
+    const body = await res.text();
+    console.error(`DEBUG: Response Body (first 500 chars): ${body.substring(0, 500)}`);
+    throw new Error(`HTTP ${res.status} for ${url}`);
+  }
   return res.json();
 }
 
